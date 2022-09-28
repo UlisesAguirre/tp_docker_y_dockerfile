@@ -7,8 +7,8 @@ After that, we place ourselves in the folder where the default nginx html file i
 
 Last, we define and use the default nginx command to start the container
 
-Devs:
--Aguirre, Ulises
+Devs
+- Aguirre, Ulises
 - Bruzzo, Luca
 - Cechetto, Juan Cruz
 - Brunetti, Marco
